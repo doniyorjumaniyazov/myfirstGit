@@ -3,3 +3,12 @@
 Cat is very pretty animal)
 
 I am agree witj it!
+
+1. We created an account in GitHub
+2. Create local repository
+3. Will make friends our lovcal and remote repositories In Git everything is indicated) 
+4. Will send (push ) your local repository to remote one and we need to log in.
+5. make the change from another computer
+6. Download (pull) current state from remote repository.
+
+
