@@ -2,7 +2,7 @@
 
 Cat is very pretty animal)
 
-I am agree witj it!
+_I am agree witj it!_
 
 1. We created an account in GitHub
 2. Create local repository
